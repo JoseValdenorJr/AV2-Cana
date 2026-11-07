@@ -2,6 +2,12 @@
 
 # AV2-Cana
 
+(OBS: O trabalho foi feito individualmente e com muito atraso, logo, o uso de IA (Google Gemini chatbot e Antigravity Agent) como uma ferramenta de Auxílio foi feito nas seguintes estapas:
+  - ajuda com lógica e interpretação dos códigos
+  - formatação de norma padrão do relatório
+  - ajuda na estrutura da planilha de resultados
+  - ajuda para formatação dos gráficos de complexidade)
+
 Este repositório contém as implementações e a análise experimental de algoritmos baseados na técnica de Divisão e Conquista.
 O objetivo do projeto é resolver problemas algorítmicos clássicos, comparando a eficiência da abordagem de divisão e conquista com soluções de força bruta.
 
