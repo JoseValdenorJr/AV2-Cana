@@ -24,9 +24,9 @@ Tecnologias Utilizadas:
   - Módulo math (Biblioteca padrão)
 
 
-Como ExecutarClone o repositório:
-  - git clone https://github.com/seu-usuario/seu-repositorio.git
-Acesse a pasta do projeto:
-  - cd seu-repositorio
-
-  - python nome_do_arquivo.py
+Como Executar
+Clone o repositório:
+  - git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/JoseValdenorJr/AV2-Cana.git
+Acesse a pasta do projeto pelo terminal via CD, e execute os arquivos:
+  - Etapa1SubMax.py
+  - Etapa2DoisPontos.py
